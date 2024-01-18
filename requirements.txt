@@ -1,0 +1,7 @@
+web3
+py-solc-x
+# need to install ganache-cli using npm, 
+# need python version 3.9.5 to get eth-brownie to work
+#python -m pip install --user pipx
+#python -m pipx ensurepath
+#pipx upgrade eth-brownie
